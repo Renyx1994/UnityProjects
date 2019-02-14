@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: e80656ec8beb1af4294dd8a5f0b09700
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Rail
+    100002: Rail 1
+    100004: Rail_broken
+    100006: Rail_cross
+    100008: Rail_curved
+    100010: Rail_curved 1
+    100012: Rail_curved 2
+    100014: Rail_curved 3
+    100016: Rail_curved 4
+    100018: Rail_curved 5
+    100020: Rail_curved 6
+    100022: Rail_curved_broken
+    100024: Rail_twisted
+    100026: Rail_twisted 1
+    100028: Rail_twisted 2
+    100030: Rail_twisted_broken
+    100032: //RootNode
+    100034: Rail_curved 7
+    100036: Rail_angle
+    100038: Railbase
+    400000: Rail
+    400002: Rail 1
+    400004: Rail_broken
+    400006: Rail_cross
+    400008: Rail_curved
+    400010: Rail_curved 1
+    400012: Rail_curved 2
+    400014: Rail_curved 3
+    400016: Rail_curved 4
+    400018: Rail_curved 5
+    400020: Rail_curved 6
+    400022: Rail_curved_broken
+    400024: Rail_twisted
+    400026: Rail_twisted 1
+    400028: Rail_twisted 2
+    400030: Rail_twisted_broken
+    400032: //RootNode
+    400034: Rail_curved 7
+    400036: Rail_angle
+    400038: Railbase
+    2300000: Rail
+    2300002: Rail 1
+    2300004: Rail_broken
+    2300006: Rail_cross
+    2300008: Rail_curved
+    2300010: Rail_curved 1
+    2300012: Rail_curved 2
+    2300014: Rail_curved 3
+    2300016: Rail_curved 4
+    2300018: Rail_curved 5
+    2300020: Rail_curved 6
+    2300022: Rail_curved_broken
+    2300024: Rail_twisted
+    2300026: Rail_twisted 1
+    2300028: Rail_twisted 2
+    2300030: Rail_twisted_broken
+    2300032: Rail_curved 7
+    2300034: Rail_angle
+    2300036: Railbase
+    3300000: Rail
+    3300002: Rail 1
+    3300004: Rail_broken
+    3300006: Rail_cross
+    3300008: Rail_curved
+    3300010: Rail_curved 1
+    3300012: Rail_curved 2
+    3300014: Rail_curved 3
+    3300016: Rail_curved 4
+    3300018: Rail_curved 5
+    3300020: Rail_curved 6
+    3300022: Rail_curved_broken
+    3300024: Rail_twisted
+    3300026: Rail_twisted 1
+    3300028: Rail_twisted 2
+    3300030: Rail_twisted_broken
+    3300032: Rail_curved 7
+    3300034: Rail_angle
+    3300036: Railbase
+    4300000: Rail
+    4300002: Rail_curved
+    4300004: Rail_curved_broken
+    4300006: Rail_curved
+    4300008: Rail_curved
+    4300010: Rail_curved
+    4300012: Rail_curved
+    4300014: Rail_twisted
+    4300016: Rail_twisted
+    4300018: Rail_twisted
+    4300020: Rail_twisted_broken
+    4300022: Rail_broken
+    4300024: Rail_cross
+    4300026: Rail
+    4300028: Rail_curved
+    4300030: Rail_curved
+    4300032: Rail_curved
+    4300034: Rail_angle
+    4300036: Railbase
+    6400000: Rail
+    6400002: Rail_angle
+    6400004: Rail_broken
+    6400006: Rail_cross
+    6400008: Rail_curved
+    6400010: Rail_curved 1
+    6400012: Rail_curved 2
+    6400014: Rail_curved 3
+    6400016: Rail_curved 4
+    6400018: Rail_curved 5
+    6400020: Rail_curved 6
+    6400022: Rail_curved 7
+    6400024: Rail_curved_broken
+    6400026: Rail_twisted
+    6400028: Rail_twisted 1
+    6400030: Rail_twisted 2
+    6400032: Rail_twisted_broken
+    6400034: Railbase
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0500000007
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

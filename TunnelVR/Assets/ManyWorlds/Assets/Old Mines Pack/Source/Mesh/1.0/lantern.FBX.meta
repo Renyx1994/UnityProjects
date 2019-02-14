@@ -1,0 +1,454 @@
+fileFormatVersion: 2
+guid: 33496fe80d393494ebc1042f99888395
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Lantern_crane
+    100004: Lantern_crane_2
+    100006: Lantern_crane_4
+    100008: Lantern_hang
+    100010: Lantern_normal
+    100012: pieces
+    100014: pieces 1
+    100016: pieces 10
+    100018: pieces 11
+    100020: pieces 12
+    100022: pieces 13
+    100024: pieces 14
+    100026: pieces 15
+    100028: pieces 16
+    100030: pieces 17
+    100032: pieces 18
+    100034: pieces 19
+    100036: pieces 2
+    100038: pieces 20
+    100040: pieces 21
+    100042: pieces 22
+    100044: pieces 23
+    100046: pieces 24
+    100048: pieces 25
+    100050: pieces 26
+    100052: pieces 27
+    100054: pieces 28
+    100056: pieces 29
+    100058: pieces 3
+    100060: pieces 30
+    100062: pieces 31
+    100064: pieces 32
+    100066: pieces 33
+    100068: pieces 34
+    100070: pieces 35
+    100072: pieces 36
+    100074: pieces 37
+    100076: pieces 38
+    100078: pieces 39
+    100080: pieces 4
+    100082: pieces 40
+    100084: pieces 41
+    100086: pieces 42
+    100088: pieces 43
+    100090: pieces 44
+    100092: pieces 45
+    100094: pieces 46
+    100096: pieces 47
+    100098: pieces 48
+    100100: pieces 49
+    100102: pieces 5
+    100104: pieces 50
+    100106: pieces 51
+    100108: pieces 52
+    100110: pieces 53
+    100112: pieces 54
+    100114: pieces 55
+    100116: pieces 56
+    100118: pieces 57
+    100120: pieces 58
+    100122: pieces 59
+    100124: pieces 6
+    100126: pieces 7
+    100128: pieces 8
+    100130: pieces 9
+    400000: //RootNode
+    400002: Lantern_crane
+    400004: Lantern_crane_2
+    400006: Lantern_crane_4
+    400008: Lantern_hang
+    400010: Lantern_normal
+    400012: pieces
+    400014: pieces 1
+    400016: pieces 10
+    400018: pieces 11
+    400020: pieces 12
+    400022: pieces 13
+    400024: pieces 14
+    400026: pieces 15
+    400028: pieces 16
+    400030: pieces 17
+    400032: pieces 18
+    400034: pieces 19
+    400036: pieces 2
+    400038: pieces 20
+    400040: pieces 21
+    400042: pieces 22
+    400044: pieces 23
+    400046: pieces 24
+    400048: pieces 25
+    400050: pieces 26
+    400052: pieces 27
+    400054: pieces 28
+    400056: pieces 29
+    400058: pieces 3
+    400060: pieces 30
+    400062: pieces 31
+    400064: pieces 32
+    400066: pieces 33
+    400068: pieces 34
+    400070: pieces 35
+    400072: pieces 36
+    400074: pieces 37
+    400076: pieces 38
+    400078: pieces 39
+    400080: pieces 4
+    400082: pieces 40
+    400084: pieces 41
+    400086: pieces 42
+    400088: pieces 43
+    400090: pieces 44
+    400092: pieces 45
+    400094: pieces 46
+    400096: pieces 47
+    400098: pieces 48
+    400100: pieces 49
+    400102: pieces 5
+    400104: pieces 50
+    400106: pieces 51
+    400108: pieces 52
+    400110: pieces 53
+    400112: pieces 54
+    400114: pieces 55
+    400116: pieces 56
+    400118: pieces 57
+    400120: pieces 58
+    400122: pieces 59
+    400124: pieces 6
+    400126: pieces 7
+    400128: pieces 8
+    400130: pieces 9
+    2300000: Lantern_crane
+    2300002: Lantern_crane_2
+    2300004: Lantern_crane_4
+    2300006: Lantern_hang
+    2300008: Lantern_normal
+    2300010: pieces
+    2300012: pieces 1
+    2300014: pieces 10
+    2300016: pieces 11
+    2300018: pieces 12
+    2300020: pieces 13
+    2300022: pieces 14
+    2300024: pieces 15
+    2300026: pieces 16
+    2300028: pieces 17
+    2300030: pieces 18
+    2300032: pieces 19
+    2300034: pieces 2
+    2300036: pieces 20
+    2300038: pieces 21
+    2300040: pieces 22
+    2300042: pieces 23
+    2300044: pieces 24
+    2300046: pieces 25
+    2300048: pieces 26
+    2300050: pieces 27
+    2300052: pieces 28
+    2300054: pieces 29
+    2300056: pieces 3
+    2300058: pieces 30
+    2300060: pieces 31
+    2300062: pieces 32
+    2300064: pieces 33
+    2300066: pieces 34
+    2300068: pieces 35
+    2300070: pieces 36
+    2300072: pieces 37
+    2300074: pieces 38
+    2300076: pieces 39
+    2300078: pieces 4
+    2300080: pieces 40
+    2300082: pieces 41
+    2300084: pieces 42
+    2300086: pieces 43
+    2300088: pieces 44
+    2300090: pieces 45
+    2300092: pieces 46
+    2300094: pieces 47
+    2300096: pieces 48
+    2300098: pieces 49
+    2300100: pieces 5
+    2300102: pieces 50
+    2300104: pieces 51
+    2300106: pieces 52
+    2300108: pieces 53
+    2300110: pieces 54
+    2300112: pieces 55
+    2300114: pieces 56
+    2300116: pieces 57
+    2300118: pieces 58
+    2300120: pieces 59
+    2300122: pieces 6
+    2300124: pieces 7
+    2300126: pieces 8
+    2300128: pieces 9
+    3300000: Lantern_crane
+    3300002: Lantern_crane_2
+    3300004: Lantern_crane_4
+    3300006: Lantern_hang
+    3300008: Lantern_normal
+    3300010: pieces
+    3300012: pieces 1
+    3300014: pieces 10
+    3300016: pieces 11
+    3300018: pieces 12
+    3300020: pieces 13
+    3300022: pieces 14
+    3300024: pieces 15
+    3300026: pieces 16
+    3300028: pieces 17
+    3300030: pieces 18
+    3300032: pieces 19
+    3300034: pieces 2
+    3300036: pieces 20
+    3300038: pieces 21
+    3300040: pieces 22
+    3300042: pieces 23
+    3300044: pieces 24
+    3300046: pieces 25
+    3300048: pieces 26
+    3300050: pieces 27
+    3300052: pieces 28
+    3300054: pieces 29
+    3300056: pieces 3
+    3300058: pieces 30
+    3300060: pieces 31
+    3300062: pieces 32
+    3300064: pieces 33
+    3300066: pieces 34
+    3300068: pieces 35
+    3300070: pieces 36
+    3300072: pieces 37
+    3300074: pieces 38
+    3300076: pieces 39
+    3300078: pieces 4
+    3300080: pieces 40
+    3300082: pieces 41
+    3300084: pieces 42
+    3300086: pieces 43
+    3300088: pieces 44
+    3300090: pieces 45
+    3300092: pieces 46
+    3300094: pieces 47
+    3300096: pieces 48
+    3300098: pieces 49
+    3300100: pieces 5
+    3300102: pieces 50
+    3300104: pieces 51
+    3300106: pieces 52
+    3300108: pieces 53
+    3300110: pieces 54
+    3300112: pieces 55
+    3300114: pieces 56
+    3300116: pieces 57
+    3300118: pieces 58
+    3300120: pieces 59
+    3300122: pieces 6
+    3300124: pieces 7
+    3300126: pieces 8
+    3300128: pieces 9
+    4300000: Lantern_crane
+    4300002: pieces
+    4300004: pieces
+    4300006: pieces
+    4300008: pieces
+    4300010: pieces
+    4300012: pieces
+    4300014: pieces
+    4300016: pieces
+    4300018: pieces
+    4300020: pieces
+    4300022: Lantern_crane_4
+    4300024: pieces
+    4300026: pieces
+    4300028: pieces
+    4300030: pieces
+    4300032: pieces
+    4300034: pieces
+    4300036: pieces
+    4300038: pieces
+    4300040: pieces
+    4300042: pieces
+    4300044: pieces
+    4300046: pieces
+    4300048: pieces
+    4300050: pieces
+    4300052: pieces
+    4300054: pieces
+    4300056: pieces
+    4300058: pieces
+    4300060: pieces
+    4300062: pieces
+    4300064: pieces
+    4300066: pieces
+    4300068: pieces
+    4300070: pieces
+    4300072: pieces
+    4300074: pieces
+    4300076: pieces
+    4300078: pieces
+    4300080: Lantern_normal
+    4300082: pieces
+    4300084: pieces
+    4300086: pieces
+    4300088: pieces
+    4300090: Lantern_crane_2
+    4300092: pieces
+    4300094: pieces
+    4300096: pieces
+    4300098: pieces
+    4300100: pieces
+    4300102: pieces
+    4300104: pieces
+    4300106: pieces
+    4300108: pieces
+    4300110: pieces
+    4300112: pieces
+    4300114: pieces
+    4300116: pieces
+    4300118: pieces
+    4300120: pieces
+    4300122: pieces
+    4300124: Lantern_hang
+    4300126: pieces
+    4300128: pieces
+    6400000: Lantern_crane
+    6400002: Lantern_crane_2
+    6400004: Lantern_crane_4
+    6400006: Lantern_hang
+    6400008: Lantern_normal
+    6400010: pieces
+    6400012: pieces 1
+    6400014: pieces 10
+    6400016: pieces 11
+    6400018: pieces 12
+    6400020: pieces 13
+    6400022: pieces 14
+    6400024: pieces 15
+    6400026: pieces 16
+    6400028: pieces 17
+    6400030: pieces 18
+    6400032: pieces 19
+    6400034: pieces 2
+    6400036: pieces 20
+    6400038: pieces 21
+    6400040: pieces 22
+    6400042: pieces 23
+    6400044: pieces 24
+    6400046: pieces 25
+    6400048: pieces 26
+    6400050: pieces 27
+    6400052: pieces 28
+    6400054: pieces 29
+    6400056: pieces 3
+    6400058: pieces 30
+    6400060: pieces 31
+    6400062: pieces 32
+    6400064: pieces 33
+    6400066: pieces 34
+    6400068: pieces 35
+    6400070: pieces 36
+    6400072: pieces 37
+    6400074: pieces 38
+    6400076: pieces 39
+    6400078: pieces 4
+    6400080: pieces 40
+    6400082: pieces 41
+    6400084: pieces 42
+    6400086: pieces 43
+    6400088: pieces 44
+    6400090: pieces 45
+    6400092: pieces 46
+    6400094: pieces 47
+    6400096: pieces 48
+    6400098: pieces 49
+    6400100: pieces 5
+    6400102: pieces 50
+    6400104: pieces 51
+    6400106: pieces 52
+    6400108: pieces 53
+    6400110: pieces 54
+    6400112: pieces 55
+    6400114: pieces 56
+    6400116: pieces 57
+    6400118: pieces 6
+    6400120: pieces 7
+    6400122: pieces 8
+    6400124: pieces 9
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0199999996
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

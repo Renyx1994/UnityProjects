@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: abe702784c611e74f987e6aa3e2095a2
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: scaffold_double
+    100004: scaffold_lower
+    100006: scaffold_parts
+    100008: scaffold_ramp
+    100010: scaffold_ramp2
+    100012: scaffold_ramp3
+    100014: scaffold_rampstart
+    100016: scaffold_short
+    100018: scaffold_simple
+    100020: scaffold_sup
+    100022: scaffold_up
+    100024: scaffold_wall
+    400000: //RootNode
+    400002: scaffold_double
+    400004: scaffold_lower
+    400006: scaffold_parts
+    400008: scaffold_ramp
+    400010: scaffold_ramp2
+    400012: scaffold_ramp3
+    400014: scaffold_rampstart
+    400016: scaffold_short
+    400018: scaffold_simple
+    400020: scaffold_sup
+    400022: scaffold_up
+    400024: scaffold_wall
+    2300000: scaffold_double
+    2300002: scaffold_lower
+    2300004: scaffold_parts
+    2300006: scaffold_ramp
+    2300008: scaffold_ramp2
+    2300010: scaffold_ramp3
+    2300012: scaffold_rampstart
+    2300014: scaffold_short
+    2300016: scaffold_simple
+    2300018: scaffold_sup
+    2300020: scaffold_up
+    2300022: scaffold_wall
+    3300000: scaffold_double
+    3300002: scaffold_lower
+    3300004: scaffold_parts
+    3300006: scaffold_ramp
+    3300008: scaffold_ramp2
+    3300010: scaffold_ramp3
+    3300012: scaffold_rampstart
+    3300014: scaffold_short
+    3300016: scaffold_simple
+    3300018: scaffold_sup
+    3300020: scaffold_up
+    3300022: scaffold_wall
+    4300000: scaffold_simple
+    4300002: scaffold_lower
+    4300004: scaffold_short
+    4300006: scaffold_double
+    4300008: scaffold_rampstart
+    4300010: scaffold_wall
+    4300012: scaffold_ramp2
+    4300014: scaffold_ramp
+    4300016: scaffold_ramp3
+    4300018: scaffold_parts
+    4300020: scaffold_up
+    4300022: scaffold_sup
+    6400000: scaffold_double
+    6400002: scaffold_lower
+    6400004: scaffold_parts
+    6400006: scaffold_ramp
+    6400008: scaffold_ramp2
+    6400010: scaffold_ramp3
+    6400012: scaffold_rampstart
+    6400014: scaffold_short
+    6400016: scaffold_simple
+    6400018: scaffold_sup
+    6400020: scaffold_up
+    6400022: scaffold_wall
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0280000009
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
